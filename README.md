@@ -70,6 +70,8 @@ Each program:
 - `sum_of_digits_while.c`
 - `menu_do_while.c`
 - `fibonacci_loop.c`
+- `multiplication_table.c`
+- `reverse_number.c`
 
 ---
 
