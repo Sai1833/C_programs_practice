@@ -236,7 +236,7 @@ Each program:
 ### 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/Sai1833/C_programs_practice.git
+git clone https://github.com/Sai1833/C_programs.git
 cd C-Programs
 ```
 
