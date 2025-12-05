@@ -176,12 +176,9 @@ Each program:
 ---
 
 ### 19. Miscellaneous
-#### Number-Based
 - `prime_in_range.c`
 - `palindrome_number.c`
 - `armstrong_number.c`
-
-#### Others
 - `pattern_star.c`
 - `fibonacci_loop.c`
 
