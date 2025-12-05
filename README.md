@@ -54,7 +54,7 @@ Each program:
 • Functions  
 • Recursion  
 • Patterns  
-• Pre - processor & Macros
+• Preprocessor & Macros
 
 </td>
 <td width="34%">
