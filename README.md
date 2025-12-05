@@ -1,16 +1,26 @@
+<div align="center">
+
 # ⚡ C Programs Collection 🚀
 
-A structured collection of C programs covering basic to advanced concepts in C programming.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Master+C+Programming!;100%2B+Ready+Programs;18+Topics+Covered" alt="Typing SVG" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Programs-100+-success?style=for-the-badge" alt="Programs"/>
+  <img src="https://img.shields.io/badge/Topics-18-blueviolet?style=for-the-badge" alt="Topics"/>
+</p>
 
 ---
+
+</div>
 
 ## ✨ About
 
 This repository is useful for:
 
-- 🎓 Students learning C
-- 🧑‍💻 Beginners who want hands-on practice
-- 📚 Anyone revising concepts topic-wise
+- 🎓 **Students** learning C
+- 🧑‍💻 **Beginners** who want hands-on practice
+- 📚 **Anyone** revising concepts topic-wise
 
 Each program:
 - 📌 Short & simple
@@ -21,169 +31,190 @@ Each program:
 
 ## 📚 Topics Covered
 
-1. Basic Programs  
-2. Operators & Expressions  
-3. Conditional Statements  
-4. Loops  
-5. Arrays (1D)  
-6. Searching & Sorting  
-7. Matrices  
-8. Strings  
-9. Functions  
-10. Recursion  
-11. Pointers  
-12. Dynamic Memory Allocation  
-13. Structures  
-14. Enum, Typedef & Union  
-15. File Handling  
-16. Patterns  
-17. Command-Line Arguments  
-18. Preprocessor & Macros  
+<table>
+<tr>
+<td width="33%">
+
+### 🟢 Basic Programs
+• Basic Programs  
+• Operators & Expressions  
+• Conditional Statements  
+• Loops  
+• Arrays (1D)  
+• Strings
+
+</td>
+<td width="33%">
+
+### 🟡 Intermediate Level
+• Searching & Sorting  
+• Matrices  
+• Functions  
+• Recursion  
+• Patterns  
+• Preprocessor & Macros
+
+</td>
+<td width="34%">
+
+### 🔴 Advanced Level
+• Pointers  
+• Dynamic Memory Allocation  
+• Structures  
+• Enum, Typedef & Union  
+• File Handling  
+• Command-Line Arguments
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📁 Program List (Topic-wise)
 
 ### 1. Basic Programs
-- hello_world.c  
-- sum_of_two_numbers.c  
-- simple_calculator.c  
-
----
+```
+├── hello_world.c
+├── sum_of_two_numbers.c
+└── simple_calculator.c
+```
 
 ### 2. Operators & Expressions
-- arithmetic_operators.c  
-- relational_logical_operators.c  
-- bitwise_operators.c  
-- increment_operator_demo.c  
-
----
+```
+├── arithmetic_operators.c
+├── relational_logical_operators.c
+├── bitwise_operators.c
+└── increment_operator_demo.c
+```
 
 ### 3. Conditional Statements
-- max_of_two_numbers.c  
-- grade_of_student.c  
-- day_of_week_switch.c  
-- voting_eligibility.c  
-- calculator_switch.c  
-
----
+```
+├── max_of_two_numbers.c
+├── grade_of_student.c
+├── day_of_week_switch.c
+├── voting_eligibility.c
+└── calculator_switch.c
+```
 
 ### 4. Loops
-- print_1_to_n.c  
-- factorial_using_for.c  
-- sum_of_digits_while.c  
-- menu_do_while.c  
-- fibonacci_loop.c  
-- multiplication_table.c  
-- reverse_number.c  
-
----
+```
+├── print_1_to_n.c
+├── factorial_using_for.c
+├── sum_of_digits_while.c
+├── menu_do_while.c
+├── fibonacci_loop.c
+├── multiplication_table.c
+└── reverse_number.c
+```
 
 ### 5. Arrays (1D)
-- array_input_output.c  
-- sum_of_array.c  
-- max_in_array.c  
-- array_reverse.c  
-
----
+```
+├── array_input_output.c
+├── sum_of_array.c
+├── max_in_array.c
+└── array_reverse.c
+```
 
 ### 6. Searching & Sorting
-- linear_search.c  
-- binary_search.c  
-- bubble_sort.c  
-- selection_sort.c  
-- insertion_sort.c  
-
----
+```
+├── linear_search.c
+├── binary_search.c
+├── bubble_sort.c
+├── selection_sort.c
+└── insertion_sort.c
+```
 
 ### 7. Matrices (2D Arrays)
-- matrix_input_output.c  
-- sum_of_matrices.c  
-- transpose_of_matrix.c  
-- trace_of_matrix.c  
-- matrix_multiplication.c  
-
----
+```
+├── matrix_input_output.c
+├── sum_of_matrices.c
+├── transpose_of_matrix.c
+├── trace_of_matrix.c
+└── matrix_multiplication.c
+```
 
 ### 8. Strings
-- string_length.c  
-- string_reverse.c  
-- string_compare.c  
-- string_copy.c  
-- string_palindrome.c  
-- vowel_consonant_count.c  
-
----
+```
+├── string_length.c
+├── string_reverse.c
+├── string_compare.c
+├── string_copy.c
+├── string_palindrome.c
+└── vowel_consonant_count.c
+```
 
 ### 9. Functions
-- sum_using_function.c  
-- prime_using_function.c  
-- swap_by_value.c  
-- swap_by_reference.c  
-- factorial_using_function.c  
-- power_using_function.c  
-
----
+```
+├── sum_using_function.c
+├── prime_using_function.c
+├── swap_by_value.c
+├── swap_by_reference.c
+├── factorial_using_function.c
+└── power_using_function.c
+```
 
 ### 10. Recursion
-- factorial_recursion.c  
-- sum_n_numbers_recursion.c  
-- fibonacci_recursion.c  
-
----
+```
+├── factorial_recursion.c
+├── sum_n_numbers_recursion.c
+└── fibonacci_recursion.c
+```
 
 ### 11. Pointers
-- pointer_basics.c  
-- pointer_and_array.c  
-- pointer_to_pointer.c  
-
----
+```
+├── pointer_basics.c
+├── pointer_and_array.c
+└── pointer_to_pointer.c
+```
 
 ### 12. Dynamic Memory Allocation
-- dynamic_array_sum.c  
-- dynamic_string_length.c  
-
----
+```
+├── dynamic_array_sum.c
+└── dynamic_string_length.c
+```
 
 ### 13. Structures
-- student_structure.c  
-- employee_structure.c  
-- array_of_structures.c  
-
----
+```
+├── student_structure.c
+├── employee_structure.c
+└── array_of_structures.c
+```
 
 ### 14. Enum, Typedef & Union
-- enum_weekdays.c  
-- typedef_example.c  
-- union_example.c  
-
----
+```
+├── enum_weekdays.c
+├── typedef_example.c
+└── union_example.c
+```
 
 ### 15. File Handling
-- file_write.c  
-- file_read.c  
-- file_append.c  
-- file_copy.c  
-
----
+```
+├── file_write.c
+├── file_read.c
+├── file_append.c
+└── file_copy.c
+```
 
 ### 16. Patterns
-- pattern_star.c  
-- number_triangle_pattern.c  
-- pyramid_star_pattern.c  
-
----
+```
+├── pattern_star.c
+├── number_triangle_pattern.c
+└── pyramid_star_pattern.c
+```
 
 ### 17. Command-Line Arguments
-- cmd_sum.c  
-- cmd_print_args.c  
-
----
+```
+├── cmd_sum.c
+└── cmd_print_args.c
+```
 
 ### 18. Preprocessor & Macros
-- macro_square.c  
-- macro_constants.c  
-- conditional_compile.c  
+```
+├── macro_square.c
+├── macro_constants.c
+└── conditional_compile.c
+```
 
 ---
 
@@ -192,3 +223,14 @@ Each program:
 ```bash
 gcc filename.c -o output
 ./output
+```
+
+---
+
+<div align="center">
+
+**⭐ Star this repo if you find it useful! ⭐**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
