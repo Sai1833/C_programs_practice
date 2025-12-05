@@ -107,6 +107,8 @@ Each program:
 - `string_reverse.c`
 - `string_compare.c`
 - `string_copy.c`
+- `string_palindrome.c`
+- `vowel_consonant_count.c`
 
 ---
 
