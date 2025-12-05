@@ -66,7 +66,7 @@ Each program:
 • Structures  
 • Enum, Typedef & Union  
 • File Handling  
-• CommandLine 
+• Command Line Arguments 
 
 </td>
 </tr>
