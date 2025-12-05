@@ -89,6 +89,7 @@ Each program:
 - `binary_search.c`
 - `bubble_sort.c`
 - `selection_sort.c`
+- `insertion_sort.c`
 
 ---
 
