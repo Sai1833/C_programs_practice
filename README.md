@@ -2,13 +2,7 @@
 
 # ⚡ C Programs Collection 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Master+C+Programming!;100%2B+Ready+Programs;18+Topics+Covered" alt="Typing SVG" />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Programs-100+-success?style=for-the-badge" alt="Programs"/>
-  <img src="https://img.shields.io/badge/Topics-18-blueviolet?style=for-the-badge" alt="Topics"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Master+C+Programming!;Learn+Step+by+Step;Practice+%26+Improve" alt="Typing SVG" />
 
 ---
 
@@ -29,11 +23,17 @@ Each program:
 
 ---
 
+<div align="center">
+
 ## 📚 Topics Covered
+
+</div>
+
+<div align="center">
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" align="center">
 
 ### 🟢 Basic Programs
 • Basic Programs  
@@ -44,7 +44,7 @@ Each program:
 • Strings
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
 ### 🟡 Intermediate Level
 • Searching & Sorting  
@@ -55,7 +55,7 @@ Each program:
 • Preprocessor & Macros
 
 </td>
-<td width="34%">
+<td width="34%" align="center">
 
 ### 🔴 Advanced Level
 • Pointers  
@@ -69,9 +69,15 @@ Each program:
 </tr>
 </table>
 
+</div>
+
 ---
 
+<div align="center">
+
 ## 📁 Program List (Topic-wise)
+
+</div>
 
 ### 1. Basic Programs
 ```
@@ -218,7 +224,20 @@ Each program:
 
 ---
 
+<div align="center">
+
 ## 🛠 Compilation & Execution
+
+</div>
+
+### 📥 Clone the Repository
+
+```bash
+git clone https://github.com/Sai1833/C_programs_practice.git
+cd C-Programs
+```
+
+### ▶️ Compile & Run
 
 ```bash
 gcc filename.c -o output
