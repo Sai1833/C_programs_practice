@@ -117,6 +117,8 @@ Each program:
 - `prime_using_function.c`
 - `swap_by_value.c`
 - `swap_by_reference.c`
+- `factorial_using_function.c `
+- `power_using_function.c`
 
 ---
 
