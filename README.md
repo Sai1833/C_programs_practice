@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 C Programs Collection 🌟
+# ⚡ C Programs Collection 🚀
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Master+C+Programming!;Learn+Step+by+Step;Practice+%26+Improve" alt="Typing SVG" />
 
@@ -33,9 +33,9 @@ Each program:
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%">
 
-### 🟢 Basic
+### Basic Programs
 ---
 • Basic Programs  
 • Operators & Expressions  
@@ -45,9 +45,9 @@ Each program:
 • Strings
 
 </td>
-<td width="33%" align="center">
+<td width="33%">
 
-### 🟡 Intermediate
+### Intermediate Level
 ---
 • Searching & Sorting  
 • Matrices  
@@ -57,9 +57,9 @@ Each program:
 • Preprocessor & Macros
 
 </td>
-<td width="34%" align="center">
+<td width="34%">
 
-### 🔴 Advanced
+### Advanced Level
 ---
 • Pointers  
 • Dynamic Memory Allocation  
