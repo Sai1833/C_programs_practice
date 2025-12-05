@@ -36,6 +36,7 @@ Each program:
 <td width="33%" align="center">
 
 ### 🟢 Basic Programs
+---
 • Basic Programs  
 • Operators & Expressions  
 • Conditional Statements  
@@ -47,6 +48,7 @@ Each program:
 <td width="33%" align="center">
 
 ### 🟡 Intermediate Level
+---
 • Searching & Sorting  
 • Matrices  
 • Functions  
@@ -58,6 +60,7 @@ Each program:
 <td width="34%" align="center">
 
 ### 🔴 Advanced Level
+---
 • Pointers  
 • Dynamic Memory Allocation  
 • Structures  
