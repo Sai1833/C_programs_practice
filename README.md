@@ -62,11 +62,11 @@ Each program:
 ### Advanced Level
 ---
 • Pointers  
-• Dynamic Memory Allocation  
+• Dynamic Memoryallocation  
 • Structures  
 • Enum, Typedef & Union  
 • File Handling  
-• Command-Line Arguments
+• CommandLine Arguments
 
 </td>
 </tr>
