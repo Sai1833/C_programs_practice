@@ -98,6 +98,7 @@ Each program:
 - `sum_of_matrices.c`
 - `transpose_of_matrix.c`
 - `trace_of_matrix.c`
+- `matrix_multiplication.c`
 
 ---
 
