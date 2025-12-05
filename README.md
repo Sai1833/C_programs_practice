@@ -80,6 +80,7 @@ Each program:
 - `sum_of_array.c`
 - `max_in_array.c`
 - `array_reverse.c`
+- `sum_of_array.c`
 
 ---
 
