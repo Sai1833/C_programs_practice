@@ -13,7 +13,7 @@ int main() {
     printf("\nLogical operators:\n");
     printf("(a && b) : %d\n", (a && b));
     printf("(a || b) : %d\n", (a || b));
-    printf("!(a) : %d\n", !a);
+    printf("!(a) : %d", !a);
 
     return 0;
 }
