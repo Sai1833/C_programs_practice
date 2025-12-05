@@ -34,7 +34,6 @@ Each program:
 16. Patterns  
 17. Command-Line Arguments  
 18. Preprocessor & Macros  
-19. Miscellaneous / Problem Solving  
 
 ---
 
@@ -182,14 +181,6 @@ Each program:
 - `macro_constants.c`
 - `conditional_compile.c`
 
----
-
-### 19. Miscellaneous
-- `prime_in_range.c`
-- `palindrome_number.c`
-- `armstrong_number.c`
-- `pattern_star.c`
-- `fibonacci_loop.c`
 
 ---
 
