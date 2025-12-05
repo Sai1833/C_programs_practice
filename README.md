@@ -31,7 +31,7 @@ Each program:
 8. Strings  
 9. Functions  
 10. Recursion  
-11.C Pointers  
+11. Pointers  
 12. Dynamic Memory Allocation  
 13. Structures  
 14. Enum, Typedef & Union  
